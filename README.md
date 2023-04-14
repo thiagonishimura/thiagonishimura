@@ -4,7 +4,6 @@
 - 📱 Atualmente estou aprendendo Dart/Flutter.
 - 💻 Sou graduado em Ciência da Computação. 
 - ☕ Programador na linguagem JAVA.
-- 😄 Pronouns: ele/dele
 ##
 <div>
 <a href= "https://github.com/thiagonishimura">
