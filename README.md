@@ -1,4 +1,4 @@
-### Seja bem-vindo!! Eu sou o Thiago Nisimura 👋
+## Seja bem-vindo!! Eu sou o Thiago Nisimura 👋
 
 - 🔭 Hoje trabalho com Manutenção de celulares.
 - 📱 Atualmente estou aprendendo Dart/Flutter.
@@ -9,7 +9,13 @@
 <a href= "https://github.com/thiagonishimura">
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=thiagonishimura&show_icons=true&theme=dracula"> <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagonishimura&layout=compact&theme=dracula">
 </div>
-<div style="display: inline_block"><br>
+
+##
+
+<div  align="center"> 
+  <div style="display: inline_block"><br>
+    <img align="left" height="250" alt="coding-time" src="code.gif">
+    <h1 align="center">Melhores Tecnologias <3</h1>
   <img align="center" alt="Thiago-Android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg">
   <img align="center" alt="Thiago-AndroidStudio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg">
   <img align="center" alt="Thiago-Dart" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
