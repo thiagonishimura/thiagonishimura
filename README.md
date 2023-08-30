@@ -1,6 +1,6 @@
 ## Seja bem-vindo!! Eu sou o Thiago Nisimura 👋
 
-- 🔭 Hoje trabalho com Manutenção de celulares.
+- 🔭 Hoje trabalho no Intituto Nacional de Pesquisas Espaciais - COEAM.
 - 📱 Atualmente estou aprendendo Dart/Flutter.
 - 💻 Sou graduado em Ciência da Computação. 
 - ☕ Programador na linguagem JAVA.
