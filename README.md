@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0084E7&size=23&lines=Seja+bem-vindo!!+👋)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0084E7&size=23&lines=Seja+bem-vindo!!+👋🏼)](https://git.io/typing-svg)
 ## Eu sou o Thiago Nisimura
 
 - 🔭 Hoje trabalho no Intituto Nacional de Pesquisas Espaciais - COEAM.
