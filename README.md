@@ -2,20 +2,18 @@
 
 ## Eu sou o Thiago Nisimura
 
-- 🔭 **Atuação:** Atualmente trabalho no Instituto Nacional de Pesquisas Espaciais - COEAM.
-- 🎓 **Acadêmico:** Sou graduado em Ciência da Computação e Mestrando focado em Inteligência Computacional.
-- 🤖 **Pesquisa:** Especialista em Python, desenvolvendo sistemas baseados em LLM e Redes Neurais.
-- 📱 **Aprendizado:** Atualmente estou aprendendo Dart/Flutter e iniciando a linguagem R.
-- ☕ **Legado:** Programador experiente na linguagem JAVA.
+- 🔭 **Atuação:** Programador no Instituto Nacional de Pesquisas Espaciais (INPE/COEAM).
+- 🎓 **Acadêmico:** Mestrando em Ciência da Computação (Inteligência Computacional).
+- 🤖 **Especialidade:** Especialista em Python, focado em LLMs, Redes Neurais e NL2SQL.
+- 📱 **Estudos:** Expandindo conhecimentos em Dart/Flutter e Linguagem R.
+- ☕ **Base:** Graduado em Ciência da Computação e desenvolvedor Java.
 
 ---
 
 ### 📊 Estatísticas
 <div align="center">
-  <a href="https://github.com/thiagonishimura">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=thiagonishimura&show_icons=true&theme=dracula" alt="Estatísticas do GitHub" />
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagonishimura&layout=compact&theme=dracula" alt="Linguagens mais usadas" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=thiagonishimura&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagonishimura&layout=compact&theme=dracula" height="165" />
 </div>
 
 ---
@@ -23,29 +21,28 @@
 ### 🛠️ Tecnologias que domino 😍
 
 <div align="center">
-  <img align="left" height="230" alt="coding-time" src="code.gif">
-  
-  <p align="center">
-    <!-- IA e Ciência de Dados -->
+  <!-- Tags Centralizadas -->
+  <p>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
     <img src="https://img.shields.io/badge/IA%20%26%20Redes%20Neurais-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="IA">
     <img src="https://img.shields.io/badge/LLM-4B0082?style=for-the-badge&logo=openai&logoColor=white" alt="LLM">
     <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres">
-    <br>
-    <!-- Desenvolvimento Mobile e Backend -->
+  </p>
+  <p>
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">
     <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android">
     <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
     <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
-    <br>
-    <!-- Ferramentas -->
+  </p>
+  <p>
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
     <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode">
   </p>
-</div>
 
-<br clear="left">
+  <!-- GIF abaixo das tags -->
+  <img height="250" src="code.gif" alt="coding-animation" style="margin-top: 20px;">
+</div>
 
 ---
 
